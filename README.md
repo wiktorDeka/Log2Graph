@@ -23,4 +23,21 @@ Po rozpakowaniu archiwum należy umieścić pliki glove.6B.50d.txt oraz glove.6B
 
 ## Uruchomienie
 
-W celu przeprowadzenia eksperymentu i uzyskania wyników, należy uruchomić wszystkie komórki notatnika Jupyter: `Results.ipynb`
+Należy zmienić zmienną `root_path` na początku plików python: `GraphGeneration.py`, `Main.py`, `Parser.py`, `Results.ipynb` tak, aby wskazywała odpowiednią ścieżkę do katalogu.
+
+W celu przeprowadzenia eksperymentu i uzyskania wyników dla konkretnego zbioru danych, należy ustawić odpowiednią wartość zmiennej `dataset_name` w pliku `Results.ipynb` i uruchomić wszystkie komórki notatnika.
+
+```python
+dataset_name = 'Windows'
+dataset_name = 'Linux'
+```
+
+## Optymalizacja hiperparametrów
+
+Aby przeprowadzić optymalizację hiperparametrów, należy należy ustawić odpowiednią wartość zmiennej `dataset_name` w pliku `HPO.ipynb` i uruchomić wszystkie komórki notatnika.
+
+```python
+dataset_name = 'Windows'
+dataset_name = 'Linux'
+```
+
