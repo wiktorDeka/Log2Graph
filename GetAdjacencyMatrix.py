@@ -101,7 +101,7 @@ def get_appr_directed_adj_keep_attr(alpha, edge_index, num_nodes, dtype, edge_we
     ##if edge_weight is not given
     edge_weight = torch.flatten(edge_weight)
 
-    print(edge_weight)
+    # print(edge_weight)
     
     fill_value = 1
     

@@ -161,4 +161,4 @@ def run_experiment(
         print(f'  train_loss = {best.train_loss:.6f}')
         print(f'  val_loss   = {best.val_loss:.6f}')
         print(f'  ROC-AUC    = {best.roc_auc:.3f}, AP = {best.ap:.3f}')
-        return final_ap, final_roc_auc, final_dists, final_labels
+        return important_epoch_info, epochinfo, test_dataset, final_ap, final_roc_auc, final_dists, final_labels
