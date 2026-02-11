@@ -1,8 +1,10 @@
-# Log2Graph
+# Logs2Graphs
 
-Referencyjna implementacja Log2Graph do wykrywania anomalii w procesie rozruchu systemu operacyjnego.
+Referencyjna implementacja [Logs2Graphs](https://github.com/ZhongLIFR/Logs2Graph) do wykrywania anomalii w procesie rozruchu systemu operacyjnego.
 
-To repozytorium zawiera referencyjną implementację metody Log2Graph stworzoną na potrzeby pracy inżynierskiej pt. "Wykrywanie anomalii w procesie rozruchu systemu operacyjnego z wykorzystaniem uczenia maszynowego"
+To repozytorium zawiera referencyjną implementację metody [Logs2Graphs](https://github.com/ZhongLIFR/Logs2Graph), stworzoną na potrzeby pracy inżynierskiej pt. "Wykrywanie anomalii w procesie rozruchu systemu operacyjnego z wykorzystaniem uczenia maszynowego"
+
+Kod bazuje
 
 ## Środowisko
 
