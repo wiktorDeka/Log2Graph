@@ -4,8 +4,6 @@ Referencyjna implementacja [Logs2Graphs](https://github.com/ZhongLIFR/Logs2Graph
 
 To repozytorium zawiera referencyjną implementację metody [Logs2Graphs](https://github.com/ZhongLIFR/Logs2Graph), stworzoną na potrzeby pracy inżynierskiej pt. "Wykrywanie anomalii w procesie rozruchu systemu operacyjnego z wykorzystaniem uczenia maszynowego"
 
-Kod bazuje
-
 ## Środowisko
 
 - Python 3.10.14
