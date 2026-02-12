@@ -41,3 +41,10 @@ dataset_name = 'Windows'
 dataset_name = 'Linux'
 ```
 
+## Materiał źródłowy
+
+```
+Zhong Li, Jiayang Shi i Matthijs van Leeuwen. „Graph Neural Networks Based Log Anomaly Detection and Explanation”. W:
+2024 IEEE/ACM 46th International Conference on Software Engineering: Companion Proceedings (ICSE-Companion).
+2024, s. 306–307. doi: 10.1145/ 3639478.3643084.
+```
